@@ -30,13 +30,12 @@ p {
   letter-spacing: 1.5px;
 }
 
-.vertical-timeline-element-subtitle{
+.vertical-timeline-element-subtitle {
   color: rgb(19, 19, 19);
   text-transform: uppercase;
   font-size: 15px;
 }
 
-.vertical-timeline-element-title{
+.vertical-timeline-element-title {
   text-transform: uppercase;
 }
-
